@@ -11,7 +11,7 @@ If you are on PC, we'll figure it out together!
 
 
 ### More Resources
-- https://learn.co/tracks/web-development-immersive-2-0-module-one
+- https://learn.co/
 - https://www.w3schools.com/html/html_intro.asp
 - https://www.codecademy.com/en/tracks/web
 - https://www.khanacademy.org/computing/computer-programming/html-css
