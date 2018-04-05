@@ -1,0 +1,33 @@
+h1 {
+  color: #80428F;
+}
+
+img {
+  width: 50%;
+}
+
+p {
+  border-style: solid; 
+  border-width: 1px; 
+  padding: 5px;
+  font-size: large;
+}
+
+iframe {
+  width: 560px; 
+  height: 315px; 
+  margin: 0px 20px;
+}
+
+.container {
+  margin: 30px;
+}
+
+#heading-container {
+  text-align: center;
+}
+
+#video-container {
+  text-align: center;
+}
+
